@@ -1,17 +1,13 @@
 <h1>Deleting Botghost's Premium popups</h1>
+<a href="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups?tab=readme-ov-file#tutorial">Tutorial</a> <a href="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups?tab=readme-ov-file#links">Links</a>
 <p>to do these you'll need the uBlock extension and the file "import.txt"</p>
-<a href="">Tutorial</a>
-<a href="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups?tab=readme-ov-file#links">Links</a>
-<br></br>
-<br></br>
-<br></br>
+<img src="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups/blob/main/BeforeandAfter.png?raw=true" alt="Before and After"  width="500" height="500">
 <br></br>
 <br></br>
 
 <h1>Links</h1>
 <h3>import.txt</h3>
 it's in this repository
-
 <h3>Ublock</h3>
 <a href="https://chromewebstore.google.com/detail/ublock-origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Chrome</a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak">Edge</a>
@@ -31,8 +27,4 @@ it's in this repository
 <img src="https://github.com/user-attachments/assets/1fd8e270-1326-49db-ac7a-8c56d0f04195" alt="import and append...">
 <p>then import the txt file</p>
 <img src="https://github.com/user-attachments/assets/0d3eba19-33dd-4245-936c-364b6f1fc012" alt="File Upload">
-
-
-
-
-
+<p>then click on apply changes</p>
