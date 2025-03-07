@@ -19,7 +19,7 @@ it's in this repository
 <p>First, you need to get the links above me, then click on the extension</p>
 <p>and then this will appear:</p>
 <img src="https://github.com/user-attachments/assets/dd76d23b-3bbc-4dc9-85a9-1ef3fc794f12" alt="The Popup">
-<p>Out of these three buttons click on the gears button</p>
+<p>Out of these five buttons click on the gears button</p>
 <img src="https://github.com/user-attachments/assets/a53625b5-2fe5-4457-b9f4-9c3a9131c6b4" alt="Gears button">
 <p>after clicking on the gears icon click the my filters</p>
 <img src="https://github.com/user-attachments/assets/e89953de-3f8f-4293-9d54-142db689cee6" alt="My filters">
