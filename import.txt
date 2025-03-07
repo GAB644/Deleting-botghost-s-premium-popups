@@ -5,3 +5,6 @@ dashboard.botghost.com##.to-\[\#179aff\]\/\[0\.05\].via-\[\#179aff\]\/\[0\.02\].
 dashboard.botghost.com##.to-\[\#0d1117\].via-\[\#0B0C0F\].from-\[\#0B0C0F\].bg-gradient-to-r.inset-0.absolute
 dashboard.botghost.com##.text-white.my-4.rounded-2xl.sm\:p-12.p-6.bg-\[\#0B0C0F\].overflow-hidden.relative
 dashboard.botghost.com##.justify-center.hover\:opacity-75.hover\:cursor-pointer.font-bold.items-center.flex.text-white.h-\[30px\].bg-red.left-0.top-0.fixed.w-full
+dashboard.botghost.com##.to-\[\#9900ff\]\/\[0\.08\].via-\[\#ff00ff\]\/\[0\.05\].from-transparent.bg-gradient-to-r.inset-0.absolute
+dashboard.botghost.com##.to-\[\#1a0f2a\].via-\[\#2a1538\].from-\[\#1a0f2a\].bg-gradient-to-r.inset-0.absolute
+dashboard.botghost.com##.text-white.my-4.rounded-2xl.sm\:p-12.p-6.bg-\[\#1a0f2a\].overflow-hidden.relative
