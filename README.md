@@ -1,3 +1,5 @@
+<h2>discord is threating to ban botghost</h2>
+<a href="https://update.botghost.com/">More Info</a>
 <h1>Deleting Botghost's Premium popups</h1>
 <a href="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups?tab=readme-ov-file#tutorial">Tutorial</a> <a href="https://github.com/GAB64-GABTVP/Deleting-botghost-s-premium-popups?tab=readme-ov-file#links">Links</a>
 <p>to do these you'll need the uBlock extension and the file "import.txt"</p>
@@ -9,7 +11,7 @@
 <h3>import.txt</h3>
 it's in this repository
 <h3>Ublock</h3>
-<a href="https://chromewebstore.google.com/detail/ublock-origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Chrome</a>
+<a href="https://chromewebstore.google.com/detail/ublock-origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Chrome (banned)</a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak">Edge</a>
 <a href="https://addons.opera.com/pt/extensions/details/ublock">Opera</a>
 <a href="https://addons.mozilla.org/firefox/addon/ublock-origin">Firefox</a>
